@@ -1,4 +1,4 @@
-# data_engineering_practice
+A repo which includes some data engineering practices with the different databases.
 
 Datasets
 - [Bristol, UK Air Quality Continuous Data](https://www.kaggle.com/datasets/visalakshiiyer/air-quality-uk-bristol) 
